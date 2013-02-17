@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anioku</string>
+    <string name="main_title">Anioku</string>
+    
+    <string name="continue_label">Kontynuuj</string>
+    <string name="new_game_label">Nowa gra</string>
+    <string name="about_label">O programie</string>
+    <string name="exit_label">Wyjście</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="about_title">O programie</string>
+    <string name="about_text">Specjalna wersja Sudoku dla mojej Ani :)</string>
+    <string name="music_title">Muzyka</string>
+    <string name="music_summary">Odtwarzaj muzykę w tle</string>
+    <string name="hints_title">Podpowiedzi</string>
+    <string name="hints_summary">Pokazuj podpowiedzi w czasie gry</string>
+    <string name="settings_title">Ustawienia</string>
+    <string name="new_game_title">Poziom trudności</string>
+    <string name="easy_label">Łatwy</string>
+    <string name="medium_label">Średni</string>
+    <string name="hard_label">Trudny</string>
+    <string name="game_title">Gra</string>
+    <string name="no_moves_label">Brak ruchów</string>
+
+    
+
+</resources>
