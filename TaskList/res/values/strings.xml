@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="lab_name">Nazwa</string>
+    <string name="lab_description">Opis</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="title_activity_task_list">TaskListActivity</string>
+    <string name="add_new_item">Dodaj wpis</string>
+    
+    <string name="context_delete">Usuń</string>
+    <string name="menu_send">Wyślij</string>
+    <string name="menu_import">Pobierz</string>
+    
+
+</resources>
