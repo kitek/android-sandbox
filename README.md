@@ -5,7 +5,7 @@ Zestaw mini aplikacji na Androida przedstawiających wykorzystanie różnych kom
 
 Lista mini aplikacji:
 
-* [Lista zadań](tree/master/TaskList)
-* [Parser XML](/tree/master/HttpParseXml)
-* [GridView i wyświetlanie obrazków](/tree/master/SimpleGridViewImages)
-* [Wykorzystanie Android-Universal-Image-Loader i GridView](/tree/master/UniversalGridViewimages)
+* [Lista zadań](TaskList)
+* [Parser XML](HttpParseXml)
+* [GridView i wyświetlanie obrazków](SimpleGridViewImages)
+* [Wykorzystanie Android-Universal-Image-Loader i GridView](UniversalGridViewimages)
