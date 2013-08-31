@@ -9,3 +9,5 @@ Lista mini aplikacji:
 * [Parser XML](HttpParseXml)
 * [GridView i wyświetlanie obrazków](SimpleGridViewImages)
 * [Wykorzystanie Android-Universal-Image-Loader i GridView](UniversalGridViewimages)
+* [Przykład gry Sudoku](Sudoku)
+* [Wykorzystanie fragmentów w Land/Port mode](FragmentsSwitch)
