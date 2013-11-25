@@ -11,3 +11,4 @@ Lista mini aplikacji:
 * [Wykorzystanie Android-Universal-Image-Loader i GridView](UniversalGridViewimages)
 * [Przykład gry Sudoku](Sudoku)
 * [Wykorzystanie fragmentów w Land/Port mode](FragmentsSwitch)
+* [Przykład dostępu do systemu plików](IoActivity.java)
